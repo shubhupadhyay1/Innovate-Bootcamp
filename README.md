@@ -9,3 +9,4 @@ To make it into a group collaboratory project, you need to be able to do the fol
 1) Share your lists with your friends that allows them to view it,
 2) Have a separate window for your lists where both persons can modify it,
 3) Open applications like Whatsapp, Facetime or Google Meet to be able to work together on a video call
+4) Open recreational applications like Spotify or Netflix that may not be good for productivity, but are required to stay sane
